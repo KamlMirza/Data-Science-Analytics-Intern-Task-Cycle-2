@@ -1,4 +1,4 @@
-<img width="1866" height="806" alt="Screenshot 2026-02-28 204235" src="https://github.com/user-attachments/assets/90031cc9-6ba0-4be6-8df4-16a544e8575e" /># Project: Global Superstore Interactive Business Dashboard  
+# Project: Global Superstore Interactive Business Dashboard  
 
 ## 1. Task Objective  
 
