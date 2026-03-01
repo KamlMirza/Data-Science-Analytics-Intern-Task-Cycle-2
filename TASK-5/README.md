@@ -58,9 +58,3 @@ The dashboard was built using **Streamlit** for the frontend and **Plotly Expres
 | **Total Sales** | **$12,642,905.00** |
 | **Total Profit** | **$1,467,457.29** |
 | **Total Orders** | **51,290** |
-
-### Data Insights  
-
-- **Top Performer:** **Technology** is the most profitable category, accounting for **45.2%** of total profits, followed by Office Supplies at 35.3%.  
-- **Customer Excellence:** **Tom Ashbrook** is identified as the highest-grossing customer, contributing significantly to the $40k+ sales bracket.  
-- **Regional Flexibility:** The dashboard allows for granular "deep-dives" into the West, East, South, and Central regions, helping managers identify underperforming territories instantly.  
