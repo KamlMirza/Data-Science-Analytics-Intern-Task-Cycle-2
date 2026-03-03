@@ -58,3 +58,8 @@ The dashboard was built using **Streamlit** for the frontend and **Plotly Expres
 | **Total Sales** | **$12,642,905.00** |
 | **Total Profit** | **$1,467,457.29** |
 | **Total Orders** | **51,290** |
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
