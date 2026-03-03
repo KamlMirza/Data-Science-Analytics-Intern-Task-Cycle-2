@@ -98,3 +98,8 @@ Based on the identified segments, the following strategies are recommended:
 - Maintain engagement through holiday newsletters  
 - Offer moderate promotions  
 - Implement cross-category marketing strategies  
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
