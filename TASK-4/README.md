@@ -34,3 +34,8 @@ The primary objective of this task is to build a robust binary classification mo
 1. **Cost-Benefit Trade-off:** Using a standard 0.5 threshold is financially inefficient in banking. By lowering the threshold to **0.38**, the bank can identify more potential defaults early, saving significantly on lost principal.
 2. **Risk Drivers:** Applicants with lower `EXT_SOURCE_3` scores and younger age profiles generally presented a higher risk of default.
 3. **Financial Impact:** The cost-based evaluation allowed us to quantify risk in dollars, moving beyond simple accuracy to provide a metric that is directly actionable for bank stakeholders.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
