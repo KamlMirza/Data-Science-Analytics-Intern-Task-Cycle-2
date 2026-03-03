@@ -48,3 +48,8 @@ Based on the analysis and the SHAP values:
 - **Duration:** The length of the last phone call is the most significant predictor. However, this information is only available after the call, making it less useful for predictive targeting before a campaign begins.  
 - **Economic Indicators:** Variables such as `euribor3m` (Euro Interbank Offered Rate) and `nr.employed` significantly impact the likelihood of subscription.  
 - **Recommendation:** The bank should prioritize customers who have been contacted fewer times in previous campaigns to reduce the risk of marketing fatigue and improve campaign effectiveness.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
