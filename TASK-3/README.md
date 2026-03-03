@@ -41,3 +41,8 @@ Models were evaluated using **Mean Absolute Error (MAE)** and **Root Mean Square
 - **Resampling Benefits**: Resampling high-frequency, noisy 1-minute data to daily averages provides a much clearer signal for short-term forecasting.  
 - **Human Behavior**: Machine learning models that incorporate categorical time features capture human patterns (e.g., higher usage on weekends) more accurately than pure auto-regressive models.  
 - **Future Work**: Accuracy could be further improved by integrating external variables such as temperature, humidity, or local weather data.  
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
